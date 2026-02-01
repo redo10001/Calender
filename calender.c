@@ -9,7 +9,6 @@ struct Note {
     int year;
     char note[100];
 };
-
 struct Note notes[100]; // Store up to 100 notes
 int totalNotes = 0;
 
