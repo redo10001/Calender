@@ -17,6 +17,7 @@ void addNote();
 void findDay();
 void printMonth();
 
+
 // Zeller's Congruence function
 int getDayOfWeek(int d, int m, int y) {
     if (m < 3) {
